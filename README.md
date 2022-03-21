@@ -28,7 +28,7 @@ This repository consists of files required for Multiclass Semantic Segmentation 
 ## IoU:
 
 <p align="center">
-  <img src="images\accuracy.png" alt="workflow"/>
+  <img src="images\iou.png" alt="workflow"/>
 </p>
 
 ## Loss:
