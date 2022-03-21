@@ -7,10 +7,9 @@ This repository consists of files required for Multiclass Semantic Segmentation 
 1. Convert tiff image and mask stack into small patches of size 128*128
 2. Create multi class U-Net model architecture.
 3. Train the U-Net model with 128*128 size images and masks.
-4. Generate the model with minimum loss.
-5. Find the mean IoU
-6. Find the IoU values for each classes.
-7. Predict segmentation of large images.
+4. Generate the model with maximum IoU and minimum loss.
+5. Verify segmentation output of the model with pre-defined label.
+6. Predict segmentation of large images.
 
 ## Pixels Categories in an Image:
 
